@@ -1,0 +1,85 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-09-06 21:05-0300\n"
+"PO-Revision-Date: 2017-09-06 21:57-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_CL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.0.3\n"
+
+#: announcer.py:66
+msgid "%s asks '%s', starting with %d %s."
+msgstr "%s pregunta '%s'. Las apuestas comienzan con %d %s"
+
+#: announcer.py:67
+msgid "people"
+msgstr "personas"
+
+#: announcer.py:67
+msgid "person"
+msgstr "persona"
+
+#: announcer.py:98
+msgid "Time's up!"
+msgstr "¡Ya, me aburrí!"
+
+#: announcer.py:101
+msgid "%s You can't bet that high. There's only %d players!"
+msgstr "%s No podís apostar eso, si sólo hay %d jugadores!"
+
+#: announcer.py:106
+msgid ""
+"%s You should bet at least %d. If you can't, maybe you should doubt or fit."
+msgstr "%s Tenís que apostar al menos %d po. Si no podís, duda o calza."
+
+#: announcer.py:111
+msgid "That's not a valid question! Remember to include your bet after '##'"
+msgstr ""
+"Esa pregunta está terrible de mal hecha, oe. Es la preguntaprimero, después "
+"'##', después el número con el que querís partir apostando. "
+
+#: announcer.py:115
+msgid "%s has taken too long. Kicking..."
+msgstr "%s me cansó. CHAO..."
+
+#: announcer.py:119
+msgid "All votes received."
+msgstr "Ya, estamos listos con los votos."
+
+#: announcer.py:123
+msgid "Ok, we're done here. Removing everyone who didn't vote."
+msgstr "Chao pa los que no votaron..."
+
+#: announcer.py:126
+msgid "Current players are: %s."
+msgstr "Los que están jugando son %s."
+
+#: announcer.py:129
+msgid "%s, it's your turn to ask a question."
+msgstr "Te toca, %s. No te demorís mucho."
+
+#: announcer.py:132
+msgid "%s joined!"
+msgstr "%s se unió al mambo :D!"
+
+#: announcer.py:135 announcer.py:149
+msgid "%s fled!"
+msgstr "%s se fue, uyuyui!"
+
+#: announcer.py:138
+msgid ""
+"%s, it's your turn to make a guess. Question is '%s'. Current bet is %d."
+msgstr "%s, te toca apostar. La pregunta es '%s' y la apuesta actual es %d."
+
+#: announcer.py:145
+msgid "Ending game, not enough players :("
+msgstr "Pff, muy pocos jugadores, chao."
